@@ -1,5 +1,5 @@
-﻿# saudagarcreative1
-Tes prototype website Saudagar Creative
--using jQuery, Typescript, and Tailwind CSS
+﻿# Saudagar Creative Project
+Front-end prototype website Saudagar Creative
+-using jQuery, html, and Tailwind CSS
 
-Link: https://dropshotcaraz.github.io/saudagarcreative
+Link: https://saudagarcreative.vercel.app/
